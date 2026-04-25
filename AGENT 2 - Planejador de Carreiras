@@ -1,133 +1,153 @@
-🧩 VISÃO DO DIA A DIA
-Como é o trabalho de um(a) Engenheiro de Dados:
+## 🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um Engenheiro de Dados & IA:
 
-Construir e manter pipelines de dados
+  > Construir e manter pipelines de dados (ETL/ELT) que movem dados de fontes diversas para data warehouses
+  > Escrever queries SQL para transformar e modelar dados brutos em tabelas analíticas
+  > Desenvolver scripts Python para automação de ingestão, limpeza e processamento de dados
+  > Integrar modelos de IA/LLMs em fluxos de dados para gerar insights automáticos
+  > Criar e monitorar dashboards avançados conectados a pipelines em tempo real
+  > Colaborar com times de negócio para entender demandas e transformar em soluções de dados
 
-Integrar diferentes fontes de informação (bancos, APIs, arquivos)
 
-Garantir qualidade, segurança e governança dos dados
-
-Otimizar performance de consultas e sistemas distribuídos
-
-Colaborar com cientistas de dados e analistas para fornecer dados confiáveis
-
-🧠 MAPA DE SKILLS
+## 🧠 MAPA DE SKILLS
 CORE SKILLS (essenciais):
 
-SQL e modelagem de dados
-
-Python para manipulação e automação
-
-ETL (Extract, Transform, Load) e pipelines de dados
+  > SQL intermediário/avançado (joins, CTEs, window functions)
+  > Python para dados (Pandas, PySpark básico)
+  > Pipelines ETL/ELT (ingestão, transformação, carga)
+  > Cloud básica (AWS, Azure ou GCP — ao menos uma)
+  > Git e versionamento de código
 
 NICE-TO-HAVE (complementares):
 
-Cloud (Azure, AWS ou GCP)
-
-NoSQL (MongoDB, Cassandra)
+  > Power BI com integração a pipelines ✅ (você já tem!)
+  > LLMs e automação com IA (LangChain, OpenAI API)
+  > Orquestração com Airflow ou Prefect
+  > dbt (Data Build Tool)
 
 FERRAMENTAS E TECNOLOGIAS:
 
-Power BI (já domina)
+  > SQL (PostgreSQL ou BigQuery)
+  > Python + Pandas + PySpark
+  > Apache Airflow
+  > dbt Core
+  > Azure Data Factory ou AWS Glue
+  > Power BI ✅
+  > GitHub
+  > Docker (básico)
 
-Spark / Databricks
 
-Airflow
+## 📅 ROADMAP DE 90 DIAS
+ADAPTADO PARA: tempo integral (6-8h/dia) com urgência de recolocação
 
-📅 ROADMAP DE 90 DIAS
-ADAPTADO PARA: alta disponibilidade semanal (mais de 15h)
+MÊS 1 — FUNDAMENTOS ACELERADOS
+SEMANA 1-2: SQL do Zero ao Intermediário
 
-MÊS 1 - FUNDAMENTOS
-SEMANA 1-2:
+  > Estudar SQL todos os dias: SELECT, WHERE, GROUP BY, JOIN, subqueries
+  > Plataformas: Mode Analytics, SQLZoo, HackerRank SQL
+  > Meta: resolver 30 exercícios de SQL e se sentir confortável com JOINs
+  > Revisitar conceitos de modelagem de dados (fato, dimensão, star schema)
 
-Revisar fundamentos de SQL (SELECT, JOIN, GROUP BY)
+SEMANA 3-4: Python para Dados
 
-Estudar modelagem relacional e normalização
+  > Foco em Pandas: leitura de CSV, limpeza, agrupamentos, merge de DataFrames
+  > Usar IA (ChatGPT/Claude) como par de programação para acelerar aprendizado
+  > Instalar e configurar ambiente: VSCode + Python + Jupyter Notebook
+  > Meta: criar 3 scripts funcionais de limpeza e transformação de dados reais
 
-SEMANA 3-4:
 
-Python focado em manipulação de dados (pandas, numpy)
+MÊS 2 — PRÁTICA E PIPELINE
+SEMANA 5-6: ETL na Prática
 
-Introdução a ETL e boas práticas
+  > Construir seu primeiro pipeline: extrair dados de API pública → transformar com Python → carregar em banco SQL
+  > Aprender conceitos de dbt Core para transformação de dados
+  > Criar conta gratuita na Azure ou Google Cloud e explorar serviços de dados
 
-MÊS 2 - PRÁTICA
-SEMANA 5-6:
+SEMANA 7-8: IA Integrada aos Dados
 
-Criar pipelines simples com Python + SQL
+  > Integrar OpenAI API ou LangChain a um pipeline de dados
+  > Automatizar geração de relatórios com LLMs (seu diferencial!)
+  > Conectar pipeline ao Power BI para dashboard em tempo real ✅ (aqui você brilha!)
+  > Iniciar construção do projeto de portfólio
 
-Explorar Spark para processamento distribuído
 
-SEMANA 7-8:
+MÊS 3 — PORTFÓLIO E RECOLOCAÇÃO
+SEMANA 9-10: Projeto Final + GitHub
 
-Estudar arquitetura de dados em nuvem (Azure Data Factory ou AWS Glue)
+  > Finalizar projeto de portfólio completo
+  > Publicar no GitHub com README bem documentado
+  > Gravar vídeo demo de 3-5 minutos mostrando o projeto funcionando
+  > Publicar no LinkedIn com storytelling do projeto
 
-Praticar integração de múltiplas fontes de dados
+SEMANA 11-12: Aplicação Intensiva de Vagas
 
-MÊS 3 - PORTFÓLIO E PREPARAÇÃO
-SEMANA 9-10:
+  > Ajustar currículo destacando BI + Dados + IA + Automação
+  > Aplicar para 10-15 vagas por semana (júnior e pleno)
+  > Treinar entrevistas técnicas e comportamentais
+  > Fazer networking ativo no LinkedIn com recrutadores de dados
 
-Desenvolver projeto completo de pipeline (extração, transformação e carga)
 
-Documentar arquitetura e decisões técnicas
-
-SEMANA 11-12:
-
-Criar dashboards conectados ao pipeline (Power BI)
-
-Simular entrevistas técnicas com foco em SQL e arquitetura
-
-🚀 PROJETO DE PORTFÓLIO
-PROJETO: Pipeline de Dados para E-commerce
-
-O QUE FAZER:  
-Construir um pipeline que coleta dados de vendas (CSV ou API), transforma em tabelas normalizadas e disponibiliza para análise em Power BI.
+## 🚀 PROJETO DE PORTFÓLIO
+PROJETO: "Pipeline Inteligente de Dados com Dashboard IA"
+O QUE FAZER:
+  > Construir um pipeline end-to-end que coleta dados públicos (ex: dados de mercado, clima, ou e-commerce), processa com Python, armazena em banco SQL, aplica um LLM para gerar insights automáticos em linguagem natural e exibe tudo em um dashboard Power BI interativo e visualmente rico.
 
 ENTREGÁVEIS:
 
-Script de ETL em Python
-
-Banco de dados relacional com tabelas organizadas
-
-Dashboard em Power BI com métricas de vendas
+  > Pipeline ETL funcional documentado no GitHub
+  > Banco de dados SQL com dados transformados e modelados
+  > Integração com LLM gerando resumos/insights automáticos
+  > Dashboard Power BI conectado ao pipeline com visual criativo
+  > README completo explicando arquitetura, decisões e como rodar
 
 CRITÉRIOS DE ACEITAÇÃO:
 
-Pipeline automatizado e funcional
+  > Pipeline roda de ponta a ponta sem erros manuais
+  > Dashboard atualiza automaticamente quando novos dados chegam
+  > LLM gera pelo menos 3 tipos diferentes de insights automáticos
+  > Código versionado no GitHub com commits organizados
+  > Projeto apresentável em entrevista em menos de 5 minutos
 
-Dados limpos e consistentes
-
-Dashboard com KPIs claros (faturamento, ticket médio, produtos mais vendidos)
-
-DICA: Use dados públicos de e-commerce ou crie dados fictícios para simular.
+## 💡 DICA: Use dados da API pública do IBGE, ANEEL ou Banco Central do Brasil — recrutadores adoram projetos com dados nacionais relevantes. E explore o Power BI Copilot para mostrar que você domina IA dentro da ferramenta!
 
 💬 ROTEIRO DE ENTREVISTAS
-PERGUNTA 1: Qual a diferença entre INNER JOIN e LEFT JOIN?
-COMO RESPONDER: Explique conceito e dê exemplo prático.
+PERGUNTA 1: "Me explica o que é um pipeline de dados e como você construiria um do zero.
+COMO RESPONDER:
+  > Um pipeline de dados é um fluxo automatizado que move dados de uma origem até um destino, passando por etapas de extração, transformação e carga — o que chamamos de ETL. No meu projeto de portfólio, por exemplo, extraí dados de uma API pública com Python, transformei e limpei com Pandas, modelei em SQL e carreguei num banco de dados. Depois conectei ao Power BI para visualização. Cada etapa foi automatizada para rodar sem intervenção manual.
 
-PERGUNTA 2: Como garantir qualidade dos dados em um pipeline?
-COMO RESPONDER: Cite validações, testes e monitoramento.
+PERGUNTA 2: "Qual a diferença entre ETL e ELT? Quando usar cada um?"
+COMO RESPONDER:
+  > No ETL, os dados são transformados antes de serem carregados no destino — era o modelo clássico quando o armazenamento era caro. No ELT, carregamos os dados brutos primeiro e transformamos dentro do data warehouse, aproveitando o poder de processamento da nuvem. Hoje com ferramentas como BigQuery e Snowflake, ELT faz mais sentido na maioria dos casos. Usei esse conceito no meu projeto quando optei por carregar os dados brutos primeiro e usar dbt para as transformações.
 
-PERGUNTA 3: O que é um Data Lake e como se diferencia de um Data Warehouse?
-COMO RESPONDER: Explique foco em dados brutos vs estruturados.
+PERGUNTA 3: "Como você lidaria com dados de má qualidade num pipeline?"
+COMO RESPONDER:
+  > Primeiro identifico os problemas: nulos, duplicatas, formatos inconsistentes, outliers. Depois defino regras de validação antes da carga — se o dado não passa, ele vai para uma fila de quarentena para revisão, não quebra o pipeline inteiro. No Python uso Pandas para limpeza e Great Expectations para validação automatizada. No meu projeto atual implementei um log de erros que registra cada registro rejeitado com o motivo, o que facilita muito a auditoria.
 
-PERGUNTA 4: Como você lidaria com dados duplicados em uma base?
-COMO RESPONDER: Cite técnicas de deduplicação e regras de negócio.
+PERGUNTA 4: "Você tem experiência com Power BI. Como isso se conecta com Engenharia de Dados?"
+COMO RESPONDER:
 
-PERGUNTA 5: Qual foi o maior desafio que você enfrentou com dados?
-COMO RESPONDER: Relate experiência com Power BI e como resolveu.
+  > É exatamente meu diferencial! Durante 2 anos como analista de BI percebi que a qualidade do dashboard depende 100% da qualidade do dado que chega. Comecei a me interessar em resolver os problemas na origem — nos pipelines — em vez de tratar no DAX ou Power Query. Então a transição para Engenharia de Dados foi natural: eu já entendia o que o negócio precisava ver, e agora estou aprendendo a construir a infraestrutura que alimenta esses dados de forma confiável e automatizada.
 
-🎓 TRILHA DIO RECOMENDADA
-TRILHA: Bootcamp Engenharia de Dados com Python e Spark
+PERGUNTA 5: "Por que você está interessado em IA dentro da Engenharia de Dados?"
+COMO RESPONDER:
 
-POR QUE ESSA TRILHA:  
-Conecta diretamente com seu objetivo de se tornar Engenheiro de Dados, reforça fundamentos de Python, Spark e pipelines, além de incluir projetos práticos.
+  > Vejo que o mercado está caminhando para pipelines que não só movem dados, mas geram insights automáticos. Meu interesse em LLMs e automação veio da vontade de criar sistemas que trabalhem sozinhos — um relatório que se escreve, um alerta que se explica, um dashboard que responde perguntas em linguagem natural. No meu projeto integrei a OpenAI API ao pipeline para gerar resumos automáticos dos dados. Acredito que engenheiros que entendem de IA vão ser cada vez mais valorizados.
+
+## 🎓 TRILHA DIO RECOMENDADA
+TRILHA: "Engenharia de Dados com Python e Cloud" + "Formação Machine Learning Specialist"
+POR QUE ESSA TRILHA:
+A DIO tem bootcamps específicos que cobrem exatamente os gaps que você precisa fechar: SQL, Python para dados, pipelines em cloud e introdução a ML. Como você já tem base sólida em BI e Excel, vai avançar mais rápido que a média. A certificação DIO também é reconhecida por recrutadores brasileiros e aparece bem no LinkedIn.
 
 PRÓXIMOS PASSOS:
 
-Acesse dio.me
+Acesse dio.me:
 
-Busque por "Engenharia de Dados com Python e Spark"
+  ``> Busque por "Engenharia de Dados" e "Python Data Engineer"
+  > Inscreva-se gratuitamente
+  > Siga o cronograma junto com este roadmap
+  > Complete os desafios de código — eles viram portfólio automaticamente!
 
-Inscreva-se gratuitamente
 
-Siga o cronograma junto com este roadmap
+##✨ Seu plano está pronto!
+Você tem um perfil muito forte para essa transição — Power BI + experiência corporativa + pós em andamento é uma combinação que poucos candidatos têm. O foco agora é fechar os gaps de SQL e Python e construir um projeto de portfólio sólido que conte sua história.
+Constância diária vale mais que maratonas esporádicas. Comece hoje pela Semana 1 — SQL! 💪
