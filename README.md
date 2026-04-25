@@ -13,7 +13,7 @@
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 10y+ de experiência em análise de BI & Dados, Power BI e gestão de processos.
+    <p>🎉 10y+ de experiência em Análise de BI & Dados, Power BI e gestão de processos.
       <br/>
      🌟 BI & Data Analyst - Estudante de Engenharia de Dados & IA
       <br/>
@@ -41,15 +41,11 @@
 
 Este projeto consiste em construir um pipeline de dados voltado para Inteligência Artificial. O objetivo é preparar dados brutos, realizar transformações e disponibilizá-los para modelos de Machine Learning e dashboards analíticos. O projeto inclui:
 
-Coleta de dados de múltiplas fontes (CSV, APIs, bancos de dados)
-
-Processamento e limpeza dos dados
-
-Armazenamento em Data Lake e Data Warehouse
-
-Preparação de datasets para IA
-
-Visualização dos resultados em Power BI
+    > Coleta de dados de múltiplas fontes (CSV, APIs, bancos de dados)
+    > Processamento e limpeza dos dados
+    > Armazenamento em Data Lake e Data Warehouse
+    > Preparação de datasets para IA
+    > Visualização dos resultados em Power BI
 
 ---
 
@@ -57,41 +53,27 @@ Visualização dos resultados em Power BI
 
 Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
 
-SQL | Intermediário
-
-Python | Intermediário
-
-Lógica de Programação | Básico
-
-Estatística | Básico
-
-Power BI | Intermediário 
+    > SQL | Intermediário
+    > Python | Intermediário
+    > Lógica de Programação | Básico
+    > Estatística | Básico
+    > Power BI | Intermediário 
 
 ---
 
 ## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
 
-Engenharia de Dados
-
-ETL com Python
-
-Spark e Databricks para processamento distribuído
-
-Inteligência Artificial
-
-Preparação de datasets para Machine Learning
-
-Integração com bibliotecas de IA (Scikit-learn, TensorFlow)
-
-Bancos de Dados
-
-Modelagem relacional e dimensional
-
-Consultas SQL avançadas
-
-Visualização
-
-Dashboards interativos com Power BI 
+    > Engenharia de Dados
+    > ETL com Python
+    > Spark e Databricks para processamento distribuído
+    > Inteligência Artificial
+    > Preparação de datasets para Machine Learning
+    > Integração com bibliotecas de IA (Scikit-learn, TensorFlow)
+    > Bancos de Dados
+    > Modelagem relacional e dimensional
+    > Consultas SQL avançadas
+    > Visualização
+    > Dashboards interativos com Power BI 
 
 ---
 
@@ -99,14 +81,10 @@ Dashboards interativos com Power BI
 
 Após a conclusão do curso/projeto, os estudantes estarão aptos a:
 
-Construir pipelines de dados escaláveis para IA
+    > Construir pipelines de dados escaláveis para IA
+    > Integrar múltiplas fontes de dados em ambientes de nuvem
+    > Preparar datasets para treinamento de modelos de Machine Learning
+    > Criar dashboards conectados a pipelines de dados
+    > Documentar e apresentar soluções de dados voltadas para IA
 
-Integrar múltiplas fontes de dados em ambientes de nuvem
-
-Preparar datasets para treinamento de modelos de Machine Learning
-
-Criar dashboards conectados a pipelines de dados
-
-Documentar e apresentar soluções de dados voltadas para IA
-
-<!--START_SECTION:footer--> <br /> <br /> <p align="center"> <a href="https://www.dio.me/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/> </a> </p> <!--END_SECTION:footer-->img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/> </a> </p> <!--END_SECTION:footer-->
+<!--START_SECTION:footer--> <br /> <br /> <p align="center"> <a href="https://www.dio.me/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/> </a> </p> <!--END_SECTION:footer-->
