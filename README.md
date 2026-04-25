@@ -7,17 +7,18 @@
 <thead>
   <tr>
     <td>
-        <p align="center">Expert</p>
         <a href="https://github.com/r9drig-tech">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@r9drig-tech"><br>
+        <img src="https://github.com/r9drig-tech.png" width="115px" alt="@r9drig-tech"><br>
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 10y+ de experiência em Análise de BI & Dados, Power BI e gestão de processos.
+    <h3>Rodrigo Salgado</h3>
+      <p>
+    <p>🎉 10y+ de experiência em Business Intelligence e Dashboards com Power BI.
       <br/>
-     🌟 BI & Data Analyst - Estudante de Engenharia de Dados & IA
+     🌟 Analista BI & Dados - Estudante de Engenharia de Dados & IA
       <br/>
-    👨‍💻 Foco em Data Analytics, Power Bi e Inteligência Artificial
+    👨‍💻 Foco em Data Analytics, Power BI e Inteligência Artificial
     </p>
       <a 
       href="https://www.linkedin.com/in/r9drig-power-bi/" 
