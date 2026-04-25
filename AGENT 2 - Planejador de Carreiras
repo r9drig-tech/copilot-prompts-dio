@@ -1,4 +1,4 @@
-## 🧩 VISÃO DO DIA A DIA
+🧩 VISÃO DO DIA A DIA
 Como é o trabalho de um Engenheiro de Dados & IA:
 
   > Construir e manter pipelines de dados (ETL/ELT) que movem dados de fontes diversas para data warehouses
@@ -9,7 +9,7 @@ Como é o trabalho de um Engenheiro de Dados & IA:
   > Colaborar com times de negócio para entender demandas e transformar em soluções de dados
 
 
-## 🧠 MAPA DE SKILLS
+🧠 MAPA DE SKILLS
 CORE SKILLS (essenciais):
 
   > SQL intermediário/avançado (joins, CTEs, window functions)
@@ -37,7 +37,7 @@ FERRAMENTAS E TECNOLOGIAS:
   > Docker (básico)
 
 
-## 📅 ROADMAP DE 90 DIAS
+📅 ROADMAP DE 90 DIAS
 ADAPTADO PARA: tempo integral (6-8h/dia) com urgência de recolocação
 
 MÊS 1 — FUNDAMENTOS ACELERADOS
@@ -87,7 +87,7 @@ SEMANA 11-12: Aplicação Intensiva de Vagas
   > Fazer networking ativo no LinkedIn com recrutadores de dados
 
 
-## 🚀 PROJETO DE PORTFÓLIO
+🚀 PROJETO DE PORTFÓLIO
 PROJETO: "Pipeline Inteligente de Dados com Dashboard IA"
 O QUE FAZER:
   > Construir um pipeline end-to-end que coleta dados públicos (ex: dados de mercado, clima, ou e-commerce), processa com Python, armazena em banco SQL, aplica um LLM para gerar insights automáticos em linguagem natural e exibe tudo em um dashboard Power BI interativo e visualmente rico.
@@ -108,7 +108,7 @@ CRITÉRIOS DE ACEITAÇÃO:
   > Código versionado no GitHub com commits organizados
   > Projeto apresentável em entrevista em menos de 5 minutos
 
-## 💡 DICA: Use dados da API pública do IBGE, ANEEL ou Banco Central do Brasil — recrutadores adoram projetos com dados nacionais relevantes. E explore o Power BI Copilot para mostrar que você domina IA dentro da ferramenta!
+💡 DICA: Use dados da API pública do IBGE, ANEEL ou Banco Central do Brasil — recrutadores adoram projetos com dados nacionais relevantes. E explore o Power BI Copilot para mostrar que você domina IA dentro da ferramenta!
 
 💬 ROTEIRO DE ENTREVISTAS
 PERGUNTA 1: "Me explica o que é um pipeline de dados e como você construiria um do zero.
@@ -133,8 +133,9 @@ COMO RESPONDER:
 
   > Vejo que o mercado está caminhando para pipelines que não só movem dados, mas geram insights automáticos. Meu interesse em LLMs e automação veio da vontade de criar sistemas que trabalhem sozinhos — um relatório que se escreve, um alerta que se explica, um dashboard que responde perguntas em linguagem natural. No meu projeto integrei a OpenAI API ao pipeline para gerar resumos automáticos dos dados. Acredito que engenheiros que entendem de IA vão ser cada vez mais valorizados.
 
-## 🎓 TRILHA DIO RECOMENDADA
+🎓 TRILHA DIO RECOMENDADA
 TRILHA: "Engenharia de Dados com Python e Cloud" + "Formação Machine Learning Specialist"
+
 POR QUE ESSA TRILHA:
 A DIO tem bootcamps específicos que cobrem exatamente os gaps que você precisa fechar: SQL, Python para dados, pipelines em cloud e introdução a ML. Como você já tem base sólida em BI e Excel, vai avançar mais rápido que a média. A certificação DIO também é reconhecida por recrutadores brasileiros e aparece bem no LinkedIn.
 
@@ -142,12 +143,12 @@ PRÓXIMOS PASSOS:
 
 Acesse dio.me:
 
-  ``> Busque por "Engenharia de Dados" e "Python Data Engineer"
+  > Busque por "Engenharia de Dados" e "Python Data Engineer"
   > Inscreva-se gratuitamente
   > Siga o cronograma junto com este roadmap
   > Complete os desafios de código — eles viram portfólio automaticamente!
 
 
-##✨ Seu plano está pronto!
+✨ Seu plano está pronto!
 Você tem um perfil muito forte para essa transição — Power BI + experiência corporativa + pós em andamento é uma combinação que poucos candidatos têm. O foco agora é fechar os gaps de SQL e Python e construir um projeto de portfólio sólido que conte sua história.
 Constância diária vale mais que maratonas esporádicas. Comece hoje pela Semana 1 — SQL! 💪
