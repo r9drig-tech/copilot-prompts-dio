@@ -1,0 +1,133 @@
+🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um(a) Engenheiro de Dados:
+
+Construir e manter pipelines de dados
+
+Integrar diferentes fontes de informação (bancos, APIs, arquivos)
+
+Garantir qualidade, segurança e governança dos dados
+
+Otimizar performance de consultas e sistemas distribuídos
+
+Colaborar com cientistas de dados e analistas para fornecer dados confiáveis
+
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+
+SQL e modelagem de dados
+
+Python para manipulação e automação
+
+ETL (Extract, Transform, Load) e pipelines de dados
+
+NICE-TO-HAVE (complementares):
+
+Cloud (Azure, AWS ou GCP)
+
+NoSQL (MongoDB, Cassandra)
+
+FERRAMENTAS E TECNOLOGIAS:
+
+Power BI (já domina)
+
+Spark / Databricks
+
+Airflow
+
+📅 ROADMAP DE 90 DIAS
+ADAPTADO PARA: alta disponibilidade semanal (mais de 15h)
+
+MÊS 1 - FUNDAMENTOS
+SEMANA 1-2:
+
+Revisar fundamentos de SQL (SELECT, JOIN, GROUP BY)
+
+Estudar modelagem relacional e normalização
+
+SEMANA 3-4:
+
+Python focado em manipulação de dados (pandas, numpy)
+
+Introdução a ETL e boas práticas
+
+MÊS 2 - PRÁTICA
+SEMANA 5-6:
+
+Criar pipelines simples com Python + SQL
+
+Explorar Spark para processamento distribuído
+
+SEMANA 7-8:
+
+Estudar arquitetura de dados em nuvem (Azure Data Factory ou AWS Glue)
+
+Praticar integração de múltiplas fontes de dados
+
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+SEMANA 9-10:
+
+Desenvolver projeto completo de pipeline (extração, transformação e carga)
+
+Documentar arquitetura e decisões técnicas
+
+SEMANA 11-12:
+
+Criar dashboards conectados ao pipeline (Power BI)
+
+Simular entrevistas técnicas com foco em SQL e arquitetura
+
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: Pipeline de Dados para E-commerce
+
+O QUE FAZER:  
+Construir um pipeline que coleta dados de vendas (CSV ou API), transforma em tabelas normalizadas e disponibiliza para análise em Power BI.
+
+ENTREGÁVEIS:
+
+Script de ETL em Python
+
+Banco de dados relacional com tabelas organizadas
+
+Dashboard em Power BI com métricas de vendas
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+Pipeline automatizado e funcional
+
+Dados limpos e consistentes
+
+Dashboard com KPIs claros (faturamento, ticket médio, produtos mais vendidos)
+
+DICA: Use dados públicos de e-commerce ou crie dados fictícios para simular.
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: Qual a diferença entre INNER JOIN e LEFT JOIN?
+COMO RESPONDER: Explique conceito e dê exemplo prático.
+
+PERGUNTA 2: Como garantir qualidade dos dados em um pipeline?
+COMO RESPONDER: Cite validações, testes e monitoramento.
+
+PERGUNTA 3: O que é um Data Lake e como se diferencia de um Data Warehouse?
+COMO RESPONDER: Explique foco em dados brutos vs estruturados.
+
+PERGUNTA 4: Como você lidaria com dados duplicados em uma base?
+COMO RESPONDER: Cite técnicas de deduplicação e regras de negócio.
+
+PERGUNTA 5: Qual foi o maior desafio que você enfrentou com dados?
+COMO RESPONDER: Relate experiência com Power BI e como resolveu.
+
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Bootcamp Engenharia de Dados com Python e Spark
+
+POR QUE ESSA TRILHA:  
+Conecta diretamente com seu objetivo de se tornar Engenheiro de Dados, reforça fundamentos de Python, Spark e pipelines, além de incluir projetos práticos.
+
+PRÓXIMOS PASSOS:
+
+Acesse dio.me
+
+Busque por "Engenharia de Dados com Python e Spark"
+
+Inscreva-se gratuitamente
+
+Siga o cronograma junto com este roadmap
